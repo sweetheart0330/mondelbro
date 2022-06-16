@@ -1,4 +1,5 @@
 # mondelbrot
-**University Project On Java Swing**\n
+**University Project On Java Swing**
+
 Небольшой проект по джава, в котором реализован простейший интерфейс и алгоритм построение фрактала.
 
